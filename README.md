@@ -1,2 +1,11 @@
-# fp-cpp
-Ejercicios prácticos de Fundamentos de Programación en C++
+# Fundamentos de Programación (C++)
+
+Repositorio con los ejercicios prácticos del primer curso del grado para la asignatura de Fundamentos de Programación. 
+
+## Contenido del repositorio
+- Entrada / Salida estándar
+- Condicionales y bucles anidados
+- Manipulación elemental de cadenas
+
+---
+Marta Simó Álvarez
