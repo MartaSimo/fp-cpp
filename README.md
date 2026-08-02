@@ -6,9 +6,9 @@ Repositorio con los ejercicios prácticos de la asignatura Fundamentos de Progra
 
 ### Cuatrimestre 1 (`c1`)
 - **Entrada/Salida y control de flujo:** Formateo de datos, lectura mediante centinelas o fin de fichero, condicionales y bucles anidados.
-- **Tratamiento de cadenas (`std::string`):** Manipulación de caracteres, búsquedas e itineración alfabética.
-- **Estructuras estáticas (Arrays):** Recorridos, inversión de elementos y búsqueda de puntos de equilibrio.
-- **Algoritmia matemática:** Operaciones con dígitos, cálculo del Máximo Común Divisor (MCD) y Criba de Eratóstenes.
+- **Tratamiento de cadenas:** Manipulación de caracteres, búsquedas e iteración alfabética.
+- **Tratamiento de arrays:** Recorridos, inversión de elementos y búsqueda de puntos de equilibrio.
+- **Algoritmia matemática básica:** Operaciones con dígitos, cálculo del Máximo Común Divisor (MCD) y Criba de Eratóstenes.
 
 ### Cuatrimestre 2 (`c2`)
 - *Próximamente / En desarrollo.*
